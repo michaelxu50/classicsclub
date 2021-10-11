@@ -6,18 +6,18 @@
 # --- Required options --- #
 
 # Name of website
-title: My Website
+title: Classics Club
 
 # Your name to show in the footer
-author: Some Person
+author: Michael Xu
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About Me: "aboutme"
+  About Me: "about the club"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
-    - Learn markdown: "https://www.markdowntutorial.com/"
+    - Schoology: "https://beautifuljekyll.com"
+    - Contact: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
 # --- Logo --- #
