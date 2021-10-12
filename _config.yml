@@ -246,7 +246,10 @@ exclude:
   - README.md
   - screenshot.png
   - docs/
-
+  
+include: 
+  - about-the-club.md
+  
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
