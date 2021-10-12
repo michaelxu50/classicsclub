@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: About the Club
 subtitle: This page explains more about the Classics Club. 
 cover-img: /assets/img/path.jpg
