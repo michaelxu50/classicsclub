@@ -14,7 +14,7 @@ author: Michael Xu
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  About the club: "google.com"
+  About the club: "https://michaelxu50.github.io/classicsclub/about"
   Resources:
     - Schoology: "https://app.schoology.com/group/786260409"
     - Contact: "https://www.markdowntutorial.com/"
