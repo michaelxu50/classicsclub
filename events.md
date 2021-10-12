@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Events
 subtitle: This page lists upcoming events. 
 cover-img: event.jpg
