@@ -1,7 +1,7 @@
 ---
-layout: post
+layout: default
 title: About the Club
-subtitle: This page explains how the club works.
+subtitle: This page explains more about the Classics Club. 
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
