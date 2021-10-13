@@ -6,4 +6,7 @@ thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
 ---
 
-List leaders here. 
+Consuls: Emerson Lee and Jack Wells
+Censor: Peter Cosmi
+Aedile: Evren Yaman
+Tribune of the Pleb: Michael Xu
