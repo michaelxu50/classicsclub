@@ -9,8 +9,8 @@ share-img: /assets/img/path.jpg
 Michael Xu
 Peter Cosmi
 
-| Priority apples | Second priority | Third priority |
+|  | Michael Xu | Peter Cosmi | Emerson Lee | Jack Wells
 |-------|--------|---------|
-| ambrosia | gala | red delicious |
-| pink lady | jazz | macintosh |
-| honeycrisp | granny smith | fuji |
+| email | xu_m@delbarton.org | cosmi_p@delbarton.org | Lee_e@delbarton.org | wells_j@delbarton.org
+| phone | jazz |  |   |    |
+
